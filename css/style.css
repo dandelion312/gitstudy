@@ -1,8 +1,8 @@
-@charset "utf-8";
-h1 {
-    background-color: yellow
-}
-
-h1 {
-    background-color: pink
-}
+    @charset "utf-8";
+    h1 {
+        background-color: yellow;
+    }
+    
+    p {
+        background-color: pink;
+    }
